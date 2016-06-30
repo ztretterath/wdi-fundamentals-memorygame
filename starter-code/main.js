@@ -1,1 +1,1 @@
-console.log("JS file is connected to HTML! Woo!")
+console.log ("This is me making an edit to main.js!")
