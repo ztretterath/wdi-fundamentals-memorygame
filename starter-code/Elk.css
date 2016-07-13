@@ -1,0 +1,68 @@
+body {
+  font: "Open Sans", sans-serif;
+  font-size: 18px;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+  padding: .8em 0;
+  color: #fffebb;
+}
+h1, h2 {
+  text-transform: uppercase;
+  font-weight: 800;
+  border-bottom: 4px solid #fffebb;
+  display: inline-block;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  background: black;
+  color: white;
+  float: left;
+  width: 50%;
+  height: 6em;
+  border: 3px solid #222222;
+  text-align: center;
+  line-height: 6em;
+}
+img {
+  margin: 0 auto;
+  width: 480px;
+}
+footer {
+ text-align: center;
+  padding: 1em 0;
+  clear: both;
+}
+nav {
+  float: right;
+  font-size: 1.8em;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: 1.8em;
+  display: inline-block;
+}
+.about {
+  float: left;
+}
+.services {
+  float: right;
+}
+div {
+  font-size: 1.2em;
+  width: 46%;
+  padding: 2%;
+}
+.big {
+  background: #222222;
+  color: white;
+  overflow: auto;
+}
