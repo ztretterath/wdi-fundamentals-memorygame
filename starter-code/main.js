@@ -22,7 +22,6 @@ function createBoard() {
 
 function isTwoCards()
 {
-  // bug: need to check if the clicked card is already flipped
   cardsInPlay.push(this.getAttribute('data-card'));
 	// show the card's image
 	console.log(this.getAttribute('data-card'));
