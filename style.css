@@ -24,18 +24,18 @@ a:hover {
 
 h1 {
   color:rgb(2, 132, 130);
-  text-align: center
+  text-align: center;
   font-family: 'Oswald', sans-serif;
 }
 
 h2 {
   color: #ee5f3c;
-  text-align: center
+  text-align: center;
   font-family: 'Oswald', sans-serif;
 }
 
 p {
-  text-align: center
+  text-align: center;
   background: rgb(2, 132, 130);
 }
 
