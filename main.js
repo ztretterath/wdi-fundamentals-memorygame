@@ -1,7 +1,7 @@
 
 var cards = ['queen', 'queen', 'king', 'king'];
 
-var cardsInPlay = [];
+//var cardsInPlay = [];
 
 var board = document.getElementById('game-board');
 
@@ -21,7 +21,7 @@ function createBoard() {
 
 function isTwoCards()
 {
-  cardsInPlay.push(this.getAttribute('data-card'));
+  //cardsInPlay.push(this.getAttribute('data-card'));
 	// show the card's image
 	console.log(this.getAttribute('data-card'));
 	if (this.getAttribute('data-card') === 'king')
