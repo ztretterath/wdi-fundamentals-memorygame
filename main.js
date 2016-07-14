@@ -16,7 +16,6 @@ function createBoard() {
     cardElement.addEventListener('click', isTwoCards);
 
     board.appendChild(cardElement);
-    board.appendChild(cardElement);
   }
 }
 
