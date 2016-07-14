@@ -58,3 +58,5 @@ function isMatch() {
 }
 
 createBoard();
+ 
+//todo: fix game board to contain 4, !8 cards..
