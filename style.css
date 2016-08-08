@@ -16,7 +16,7 @@ nav a {
   border: 2px solid white;
   background: rgb(2, 132, 130);
   border-radius: 10px;
-  float: center;
+  display: inline-block;
   margin: 8%;
 }
 
