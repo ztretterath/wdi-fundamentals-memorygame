@@ -54,6 +54,7 @@ p {
   display: inline-block;
   margin: auto;
   background: #ee5f3c;
+  border-radius: 20px;
 }
 footer {
   clear:both;
