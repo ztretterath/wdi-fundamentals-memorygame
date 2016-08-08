@@ -52,7 +52,7 @@ p {
   height: 80%;
   width: 50%;
   display: inline-block;
-  margin: auto;
+  padding: 25 px;
   background: #ee5f3c;
   border-radius: 20px;
 }
@@ -75,3 +75,6 @@ img {
 	height: 200px;
   width: 150px;
 }
+ .input {
+   padding: 25px;
+ }
