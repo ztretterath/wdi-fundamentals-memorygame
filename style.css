@@ -16,11 +16,11 @@ nav a {
   border: 2px solid white;
   background: rgb(2, 132, 130);
   border-radius: 10px;
-  float: left;
+  float: center;
   margin: 8%;
 }
 
-a:hover, div:hover {
+a:hover, div:hover /*unsure on hover*/ {
   background: #ee5f3c; 
 }
 
@@ -41,6 +41,7 @@ p {
   color: whitesmoke;
   text-align: center;
   background: rgb(2, 132, 130);
+  padding: 25px;
 }
 
 .name {
