@@ -15,8 +15,8 @@ a:hover {
 .card{
   height: 200px;
   width: 150px;
-  border: 1px solid black;
-  background-image: <img src = "http://imgur.com/a/ZPTFi">;
+  border: 1px solid brown;
+  background-color: : lightskyblue;
   border-radius: 10px;
   float: left;
   margin: 8%;
