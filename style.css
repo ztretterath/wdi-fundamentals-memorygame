@@ -51,6 +51,7 @@ p {
   height: 80%;
   width: 50%;
   display: inline-block;
+  margin: auto;
   background: #ee5f3c;
 }
 footer {
