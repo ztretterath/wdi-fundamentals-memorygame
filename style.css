@@ -9,7 +9,7 @@ nav a {
   float: left;
   padding: 35px;
 }
-a:hover {
+a:hover, span:hover {
   background: #ee5f3c; 
 }
 .card{
@@ -20,10 +20,6 @@ a:hover {
   border-radius: 10px;
   float: left;
   margin: 8%;
-}
-
-card:hover {
-  background: #ee5f3c;
 }
 
 h1 {
