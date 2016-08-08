@@ -19,6 +19,10 @@ function createBoard() {
   }
 }
 
+if (this.getAttribute('data-card') === 'king' || this.getAttribute('data-card') === 'queen') {
+  this.innerHTML = "img src = 'http://imgur.com/Sfjj67D'>"; //playing card image
+}
+
 function isTwoCards()
 {
   cardsInPlay.push(this.getAttribute('data-card'));
